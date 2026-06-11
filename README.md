@@ -10,18 +10,13 @@ Cette clÃ© est **obligatoire** au premier lancement : sans elle, l'application
 
 | | |
 |---|---|
-| **DerniÃ¨re version** | [v1.1.65](https://github.com/offibox/offibox-releases/releases/latest) |
-| **Installateur** | [Offibox-Setup-1.1.65.exe](https://github.com/offibox/offibox-releases/releases/download/v1.1.65/Offibox-Setup-1.1.65.exe) |
+| **DerniÃ¨re version** | [v1.1.72](https://github.com/offibox/offibox-releases/releases/latest) |
+| **Installateur** | [Offibox-Setup-1.1.72.exe](https://github.com/offibox/offibox-releases/releases/download/v1.1.72/Offibox-Setup-1.1.72.exe) |
 
-## NouveautÃ©s v1.1.65
-### Dernières modifications
+## NouveautÃ©s v1.1.72
+### DerniÃ¨res modifications
 
-- **Mises à jour auto** : vérification GitHub à chaque démarrage ; téléchargement pendant le splash ; installation au lancement suivant.
-- **Releases publiques** : installateurs hébergés sur `offibox/offibox-releases` (URL sans nom personnel).
-- **Actualités** : badge « + » limité aux DGS et actualités éditoriales (plus de compteur gonflé par tensions ANSM / commercialisations).
-- **Poste web** : chat et bloc-note via `offibox-xrhz.vercel.app`.
-- **Windows** : zone gauche du bureau à nouveau cliquable (correction hit-test fenêtre plein écran).
-- **Build** : correction du push GitHub (fichier `website/index.html` obsolète retiré).
+- Consultez les [releases GitHub](https://github.com/offibox/offibox-releases/releases/latest) pour le dÃ©tail.
 
 ---
 
