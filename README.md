@@ -15,7 +15,7 @@ Cette clé est **obligatoire** au premier lancement : sans elle, l'application n
 |---|---|
 | **DerniÃ¨re version** | [v1.1.85](https://github.com/offibox/offibox-releases/releases/latest) |
 | **Installateur** | [Offibox-Setup-1.1.85.exe](https://github.com/offibox/offibox-releases/releases/download/v1.1.85/Offibox-Setup-1.1.85.exe) |
-### DerniÃ¨res modifications
+### Dernières modifications
 
 ---
 
