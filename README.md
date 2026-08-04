@@ -2,7 +2,7 @@
 
 ## Téléchargement
 
-## Nouveautés v1.1.86
+## Nouveautés v1.1.87
 
 
 ## Clé API obligatoire
@@ -13,8 +13,8 @@ Cette clé est **obligatoire** au premier lancement : sans elle, l'application n
 
 | | |
 |---|---|
-| **DerniÃ¨re version** | [v1.1.86](https://github.com/offibox/offibox-releases/releases/latest) |
-| **Installateur** | [Offibox-Setup-1.1.86.exe](https://github.com/offibox/offibox-releases/releases/download/v1.1.86/Offibox-Setup-1.1.86.exe) |
+| **DerniÃ¨re version** | [v1.1.87](https://github.com/offibox/offibox-releases/releases/latest) |
+| **Installateur** | [Offibox-Setup-1.1.87.exe](https://github.com/offibox/offibox-releases/releases/download/v1.1.87/Offibox-Setup-1.1.87.exe) |
 ### DerniÃ¨res modifications
 
 ---
