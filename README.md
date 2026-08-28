@@ -2,7 +2,7 @@
 
 ## Téléchargement
 
-## Nouveautés v1.1.160
+## Nouveautés v1.1.161
 
 
 ## Clé API obligatoire
@@ -13,9 +13,9 @@ Cette clé est **obligatoire** au premier lancement : sans elle, l'application n
 
 | | |
 |---|---|
-| **DerniÃ¨re version** | [v1.1.160](https://github.com/offibox/offibox-releases/releases/latest) |
+| **DerniÃ¨re version** | [v1.1.161](https://github.com/offibox/offibox-releases/releases/latest) |
 | **Installateur (lien stable site)** | [Offibox-Setup.exe](https://github.com/offibox/offibox-releases/releases/latest/download/Offibox-Setup.exe) |
-| **Installateur versionnÃ©** | [Offibox-Setup-1.1.160.exe](https://github.com/offibox/offibox-releases/releases/download/v1.1.160/Offibox-Setup-1.1.160.exe) |
+| **Installateur versionnÃ©** | [Offibox-Setup-1.1.161.exe](https://github.com/offibox/offibox-releases/releases/download/v1.1.161/Offibox-Setup-1.1.161.exe) |
 ### DerniÃ¨res modifications
 
 ---
